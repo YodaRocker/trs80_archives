@@ -1,0 +1,3 @@
+# Archives de mes premiers programmes écrits sur TRS-80 !
+
+C'est du #vintageComputing... attention plongée au début des années 80, âmes sensibles s'abstenir...
